@@ -12,12 +12,11 @@
 Need assistance or have any questions? Feel free to join our Discord server at [https://discord.gg/gKYndhU78p](https://discord.gg/gKYndhU78p).
 
 ## Images
-
-![image](https://github.com/Orex1/yo-interaction/assets/140979909/14dede75-7e6c-4e8b-9283-b50542b86735)
-![image](https://github.com/Orex1/yo-interaction/assets/140979909/be4a9df2-79a5-408f-babf-21a798699f91)
-![image](https://github.com/Orex1/yo-interaction/assets/140979909/516419c4-9dcc-41d2-97b6-9eb52fb865f2)
-![image](https://github.com/Orex1/yo-interaction/assets/140979909/509b6c82-6316-4f02-ab84-4aa9ae967a33)
-
+![image](https://github.com/Orex1/yo-interaction/assets/140979909/d1196c6e-fd14-4fa7-913d-b2adb0d52066)
+![image](https://github.com/Orex1/yo-interaction/assets/140979909/d7b36dfc-6e8f-4249-af7a-9c4fe10cf461)
+![image](https://github.com/Orex1/yo-interaction/assets/140979909/94355c65-4271-4d6a-9256-a6d1d050e005)
+![image](https://github.com/Orex1/yo-interaction/assets/140979909/fef7a43f-00f9-4e7d-ba81-e4a7404d36b3)
+![image](https://github.com/Orex1/yo-interaction/assets/140979909/b4cab47f-7ae7-44c9-9a3e-32a69ad8d663)
 
 [License information, contributing guidelines, and other relevant sections may be added as needed.]
 
